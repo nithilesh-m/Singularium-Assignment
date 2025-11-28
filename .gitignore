@@ -1,4 +1,3 @@
 /backend/.venv/
-/screenshots/
 frontend/node_modules/
 *.log
