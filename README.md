@@ -21,11 +21,11 @@ task-analyzer/
 ```
 ## UI
 
-![1](screenshots/1.png)
+![1](screnshots/1.png)
 
-![2](screenshots/3.png)
+![2](screnshots/3.png)
 
-![3](screenshots/2.png)
+![3](screnshots/2.png)
 
 ## Backend Setup
 
